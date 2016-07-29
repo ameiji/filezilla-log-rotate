@@ -1,7 +1,6 @@
 #
-#   Comress Filezilla Logs
+#   Compress and Rotate FileZilla FTP Server Logs
 #
-
 
 $LogFolder = “C:\Program Files (x86)\FileZilla Server\Logs” 
 $Arcfolder = "C:\Program Files (x86)\FileZilla Server\Logs\Archive”
